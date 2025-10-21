@@ -1,4 +1,4 @@
 package com.atvJackson6.atividadePratica6.service;
 
-public class ValidadorEmailService {
+public class ProcessadorEmails {
 }
