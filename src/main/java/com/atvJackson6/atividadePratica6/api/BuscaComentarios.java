@@ -5,7 +5,7 @@ import java.net.URI;
 import java.net.http.HttpClient;
 import java.net.http.HttpRequest;
 import java.net.http.HttpResponse;
-public class BuscaComentario {
+public class BuscaComentarios {
     public String obterComentarios() throws IOException, InterruptedException {
         HttpClient client = HttpClient.newHttpClient();
         String url = "https://jsonplaceholder.typicode.com/comments";
